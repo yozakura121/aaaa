@@ -1,0 +1,23 @@
+{
+  "name": "aaaa",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000a\u0000a\u0000a\u0000\r\u0000 \u0000#\u0000 \u0000a\u0000a\u0000a\u0000a\u0000\r\u0000 \u0000",
+  "main": "aa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yozakura121/aaaa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yozakura121/aaaa/issues"
+  },
+  "homepage": "https://github.com/yozakura121/aaaa#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
